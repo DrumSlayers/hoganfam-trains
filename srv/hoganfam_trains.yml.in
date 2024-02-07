@@ -1,3 +1,4 @@
 // No overrides, default to fancy
 
 #include "trains.yml.in"
+#include "metro_mp89/metro_mp89.yml.in"

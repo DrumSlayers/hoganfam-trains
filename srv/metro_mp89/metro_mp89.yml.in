@@ -1,0 +1,40 @@
+metro_mp89:
+  name: metro_mp89
+  savedName: metro_mp89
+  wait:
+    distance: 100.0
+    delay: 10.0
+    acceleration: 0.0035
+    deceleration: 0.005
+    predict: true
+  speedLimit: 1.0
+  collision:
+    players: CANCEL
+    misc: PUSH
+    train: LINK
+    block: DEFAULT
+  slowDown: false
+  keepChunksLoaded: true
+  carts:
+    0:
+#include "bogie.yml.in"
+      flipped: false
+    1:
+#define DOOR_ANIM_1 doors_r
+#define DOOR_ANIM_2 doors_l
+#include "car_1.yml.in"
+      flipped: false
+    2:
+#include "bogie.yml.in"
+      flipped: true
+    3:
+#include "bogie.yml.in"
+      flipped: false
+    4:
+#define DOOR_ANIM_1 doors_l
+#define DOOR_ANIM_2 doors_r
+#include "car_1.yml.in"
+      flipped: true
+    5:
+#include "bogie.yml.in"
+      flipped: true
