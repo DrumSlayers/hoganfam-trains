@@ -21,3 +21,4 @@
 #include "class158/skins.yml.in"
 #include "metro/skins.yml.in"
 #include "a4/skins.yml.in"
+#include "metro_mp89/metro_mp89.yml.in"

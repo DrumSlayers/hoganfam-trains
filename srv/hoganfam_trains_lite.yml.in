@@ -2,4 +2,3 @@
 #define ENABLE_PLATFORMS 0
 
 #include "trains.yml.in"
-#include "metro_mp89/metro_mp89.yml.in"

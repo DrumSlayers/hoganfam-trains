@@ -1,0 +1,17 @@
+{
+    "metro.mp89.start": {
+      "sounds": [
+        "metro:mp89/start1"
+      ]
+    },
+    "metro.mp89.fast": {
+      "sounds": [
+        "metro:mp89/fast1"
+      ]
+    },
+    "metro.mp89.stop": {
+        "sounds": [
+          "metro:mp89/stop1"
+        ]
+      }
+  }

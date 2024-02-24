@@ -4,14 +4,14 @@
 		"layer0": "item/wooden_pickaxe"
 	},
 	"overrides": [
-		{"predicate": {"custom_model_data":424},  "model": "item/amalon/tc_metro_mp89_seats_metro"},
-		{"predicate": {"custom_model_data":425},  "model": "item/amalon/tc_metro_mp89_seats_airline"},
-		{"predicate": {"custom_model_data":426},  "model": "item/amalon/tc_metro_mp89_door_left"},
-		{"predicate": {"custom_model_data":427},  "model": "item/amalon/tc_metro_mp89_door_right"},
-		{"predicate": {"custom_model_data":428},  "model": "item/amalon/tc_metro_mp89_bogie"},
-		{"predicate": {"custom_model_data":429},  "model": "item/amalon/tc_metro_mp89_body_front"},
-		{"predicate": {"custom_model_data":430},  "model": "item/amalon/tc_metro_mp89_body_2"},
-		{"predicate": {"custom_model_data":431},  "model": "item/amalon/tc_metro_mp89_body_3"},
-		{"predicate": {"custom_model_data":432},  "model": "item/amalon/tc_metro_mp89_body_back"}
+		{"predicate": {"custom_model_data":424},  "model": "item/amalon/tc/metro_mp89/seats_metro"},
+		{"predicate": {"custom_model_data":425},  "model": "item/amalon/tc/metro_mp89/seats_airline"},
+		{"predicate": {"custom_model_data":426},  "model": "item/amalon/tc/metro_mp89/door_left"},
+		{"predicate": {"custom_model_data":427},  "model": "item/amalon/tc/metro_mp89/door_right"},
+		{"predicate": {"custom_model_data":428},  "model": "item/amalon/tc/metro_mp89/bogie"},
+		{"predicate": {"custom_model_data":429},  "model": "item/amalon/tc/metro_mp89/body_front"},
+		{"predicate": {"custom_model_data":430},  "model": "item/amalon/tc/metro_mp89/body_2"},
+		{"predicate": {"custom_model_data":431},  "model": "item/amalon/tc/metro_mp89/body_3"},
+		{"predicate": {"custom_model_data":432},  "model": "item/amalon/tc/metro_mp89/body_back"}
 	]
 }
