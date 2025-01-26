@@ -1,0 +1,71 @@
+{
+	"model": {
+	  "type": "minecraft:range_dispatch",
+	  "property": "minecraft:custom_model_data",
+	  "entries": [
+		{
+		  "threshold": 424,
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/amalon/tc/metro_mp89/seats_metro"
+		  }
+		},
+		{
+		  "threshold": 425,
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/amalon/tc/metro_mp89/seats_airline"
+		  }
+		},
+		{
+		  "threshold": 426,
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/amalon/tc/metro_mp89/door_left"
+		  }
+		},
+		{
+		  "threshold": 427,
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/amalon/tc/metro_mp89/door_right"
+		  }
+		},
+		{
+		  "threshold": 428,
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/amalon/tc/metro_mp89/bogie"
+		  }
+		},
+		{
+		  "threshold": 429,
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/amalon/tc/metro_mp89/body_front"
+		  }
+		},
+		{
+		  "threshold": 430,
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/amalon/tc/metro_mp89/body_2"
+		  }
+		},
+		{
+		  "threshold": 431,
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/amalon/tc/metro_mp89/body_3"
+		  }
+		},
+		{
+		  "threshold": 432,
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/amalon/tc/metro_mp89/body_back"
+		  }
+		}
+	  ]
+	}
+}
